@@ -5,29 +5,12 @@
 </p>
 
 
-## Notice: This project is deprecated
+## Acknowledgement:
 
-This project is no longer actively maintained and supported. Please consider using our new app, [ChatTab](https://chattab.app).
-
-ChatTab is a brand new native mac software for ChatGPT
-
-* Unique UI Design
-
-* iCloud
-
-* Better Markdown Experience
-
-* Better compatibility: macOS 11 +
-
-* Live in menubar
-
-* Displayed by shortcut keys, similar to Spotlight
-
-* Custom Prompt
-
-Learn more at [https://chattab.app](https://chattab.app)
-
-![ChatTab](https://imgur.com/s4SiG2N.png "ChatTab")
+This project is a fork of [Chat](https://github.com/LeaderBoy/Chat).
+The reason I detached it from the original repository is that the author has deprecated it and no longer provide active maintenance nor support. 
+Please consider to use the original author's new app, [ChatTab](https://chattab.app).
+I keep this detached repo here for coding practice purpose.
 
 
 # MacChatGPT
