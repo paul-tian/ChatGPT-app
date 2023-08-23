@@ -7,9 +7,12 @@
 
 ## Acknowledgement:
 
-This project is a fork of [Chat](https://github.com/LeaderBoy/Chat).
-The reason I detached it from the original repository is that the author has deprecated it and no longer provide active maintenance nor support. 
+This project is a detached fork of [Chat](https://github.com/LeaderBoy/Chat).
+
+However, the original repository is now deprecated and has no active maintenance nor support. 
+
 Please consider to use the original author's new app, [ChatTab](https://chattab.app).
+
 I keep this detached repo here for coding practice purpose.
 
 
@@ -25,9 +28,6 @@ I keep this detached repo here for coding practice purpose.
 
 * MacOS 13.0
 
-## Download
-
-Go to [Release Page](https://github.com/LeaderBoy/Chat/releases)
 
 ## Usage
 
@@ -58,22 +58,7 @@ Just add your own API Key in app
 * Clear history
 * Custom API URL 
 
-## Contributing
-
-We are more than happy to accept external contributions to the project in the form of feedback, bug reports and even better - pull requests
 
 ## License
 
 MacChatGPT is available under the MIT license. See the LICENSE file for more info.
-
-
-
-计算如下表格的密度平均值、标准差、和显著水平
-
-| 处理 | 密度 |
-| 1 | 45 |
-| 2 | 52.5 |
-| 3 | 60 |
-| 4 | 67.5 |
-
-
